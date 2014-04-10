@@ -1,0 +1,28 @@
+{
+  "name": "Moonwalk",
+  "version": "0.0.0",
+  "description": "Scrolling just got interesting.",
+  "main": "frontend/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lrenhrda/Moonwalk.git"
+  },
+  "author": "Lauren Herda",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lrenhrda/Moonwalk/issues"
+  },
+  "homepage": "https://github.com/lrenhrda/Moonwalk",
+  "devDependencies": {
+    "grunt": "~0.4.4",
+    "grunt-contrib-stylus": "~0.13.2",
+    "grunt-contrib-connect": "~0.7.1",
+    "connect-livereload": "~0.3.2",
+    "grunt-contrib-watch": "~0.6.1",
+    "grunt-contrib-coffee": "~0.10.1",
+    "grunt-contrib-concat": "~0.4.0"
+  }
+}
